@@ -1,0 +1,2 @@
+# Practice-Database
+Practicing SQL 
